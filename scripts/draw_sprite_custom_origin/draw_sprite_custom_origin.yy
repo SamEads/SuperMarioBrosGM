@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_sprite_custom_origin",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_sprite_custom_origin",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/Utility/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

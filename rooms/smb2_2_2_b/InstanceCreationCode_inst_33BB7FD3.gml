@@ -1,0 +1,1 @@
+destination = global.last_room;

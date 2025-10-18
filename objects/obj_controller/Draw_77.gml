@@ -1,0 +1,1 @@
+oldscale = global.scale;

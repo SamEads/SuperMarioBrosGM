@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pal_swap_set_surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pal_swap_set_surface",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

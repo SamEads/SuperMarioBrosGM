@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_text_custom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_text_custom",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/Utility/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

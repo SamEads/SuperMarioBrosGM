@@ -1,0 +1,1 @@
+coin_start = true;

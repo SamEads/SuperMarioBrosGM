@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"key_to_button",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"key_to_button",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

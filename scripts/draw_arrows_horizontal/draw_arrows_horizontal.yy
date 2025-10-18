@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_arrows_horizontal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_arrows_horizontal",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/Utility/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

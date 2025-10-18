@@ -1,0 +1,1 @@
+right_guesses = 2;

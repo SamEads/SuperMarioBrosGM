@@ -1,0 +1,1 @@
+event_perform_object(obj_brick_break,ev_other,ev_user14);

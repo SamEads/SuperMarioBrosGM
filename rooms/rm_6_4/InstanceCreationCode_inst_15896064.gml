@@ -1,0 +1,1 @@
+deathsprite = spr_blooper;

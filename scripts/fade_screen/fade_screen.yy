@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fade_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fade_screen",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

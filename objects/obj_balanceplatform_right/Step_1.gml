@@ -1,0 +1,1 @@
+event_perform_object(obj_balanceplatform_left,ev_step,ev_step_begin);

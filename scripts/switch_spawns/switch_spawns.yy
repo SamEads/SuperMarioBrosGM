@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"switch_spawns",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"switch_spawns",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

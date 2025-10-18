@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tls_airship_modern",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tls_airship_modern",
+  "out_columns":10,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Modern",
+    "path":"folders/Tile Sets/SMB/Modern.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tls_airship_modern",
+    "path":"sprites/spr_tls_airship_modern/spr_tls_airship_modern.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":1,
+  "tilevsep":1,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":96,
+}

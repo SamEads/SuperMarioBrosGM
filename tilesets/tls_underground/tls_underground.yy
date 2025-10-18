@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tls_underground",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tls_underground",
+  "out_columns":10,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Retro",
+    "path":"folders/Tile Sets/SMB/Retro.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tls_underground",
+    "path":"sprites/spr_tls_underground/spr_tls_underground.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":1,
+  "tilevsep":1,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":96,
+}

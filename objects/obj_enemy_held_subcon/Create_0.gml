@@ -1,0 +1,9 @@
+return_object = obj_goomba;
+thrown = false;
+hit_object = false;
+combo = 0;
+color = 0;
+thrower = noone;
+quick_throw = false;
+indexed_throw_y = -1;
+ret_obj = -1;

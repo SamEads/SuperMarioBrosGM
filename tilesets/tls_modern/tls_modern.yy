@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tls_modern",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":17,
+    "SerialiseWidth":20,
+    "TileCompressedData":[
+      -40,0,1,7,-19,0,3,23,0,6,-17,0,14,22,0,22,0,19,20,21,0,19,20,20,21,0,19,-3,20,1,21,-26,0,10,8,9,10,0,
+      8,9,9,10,0,8,-4,9,1,10,-25,0,10,24,25,26,0,24,25,25,26,0,24,-4,25,1,26,-25,0,1,8,-3,9,3,10,0,8,-5,9,
+      1,10,-27,0,1,24,-3,25,3,26,0,24,-5,25,1,26,-27,0,1,8,-6,9,1,10,-32,0,1,24,-6,25,1,26,-8,0,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"tls_modern",
+  "out_columns":10,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Modern",
+    "path":"folders/Tile Sets/SMB/Modern.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tls_mariomaker",
+    "path":"sprites/spr_tls_mariomaker/spr_tls_mariomaker.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":1,
+  "tilevsep":1,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":96,
+}
