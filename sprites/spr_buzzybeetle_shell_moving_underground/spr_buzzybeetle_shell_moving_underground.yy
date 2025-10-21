@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":1,
   "parent":{
-    "name":"Ground & Underworld",
-    "path":"folders/Sprites/Enemies/Ground & Underworld.yy",
+    "name":"Ground",
+    "path":"folders/Sprites/Enemies/Ground.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -71,10 +71,18 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8fa5bd6c-7016-4e24-b4a7-f59591f10547","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8e055daa-16fc-4028-8b73-cbe7f59d3554","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"15a5d70a-6f6e-480c-9ccb-ea5b832f4aa2","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cdf1cdc2-22e2-432c-a370-368ef5a20c67","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"666080c4-cc18-4997-9d7f-f39f770d715e","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ca6fb6c9-a4c5-43f4-99cb-dcf61035632e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"75c25000-15ab-4847-964d-7917b5a73c82","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6bfa4190-9994-4843-9c04-ca33a9e2359e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8fa5bd6c-7016-4e24-b4a7-f59591f10547","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8e055daa-16fc-4028-8b73-cbe7f59d3554","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"15a5d70a-6f6e-480c-9ccb-ea5b832f4aa2","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cdf1cdc2-22e2-432c-a370-368ef5a20c67","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"666080c4-cc18-4997-9d7f-f39f770d715e","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ca6fb6c9-a4c5-43f4-99cb-dcf61035632e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"75c25000-15ab-4847-964d-7917b5a73c82","path":"sprites/spr_buzzybeetle_shell_moving_underground/spr_buzzybeetle_shell_moving_underground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6bfa4190-9994-4843-9c04-ca33a9e2359e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

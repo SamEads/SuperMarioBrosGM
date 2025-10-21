@@ -116,6 +116,6 @@ function level_list() {
 	}
 	
 	//World -1
-	global.worldlevel[0,1] = rm__1;
+	global.worldlevel[0,1] = rm_minus_1;
 
 }

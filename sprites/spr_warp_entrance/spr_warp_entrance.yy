@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"System",
-    "path":"folders/Sprites/System.yy",
+    "name":"Warp",
+    "path":"folders/Sprites/Warp.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

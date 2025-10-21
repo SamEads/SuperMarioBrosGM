@@ -29,7 +29,7 @@
   "origin":6,
   "parent":{
     "name":"Progress",
-    "path":"folders/Sprites/System/Progress.yy",
+    "path":"folders/Sprites/Progress.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

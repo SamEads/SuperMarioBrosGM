@@ -27,7 +27,7 @@
   "origin":1,
   "parent":{
     "name":"Koopas",
-    "path":"folders/Sprites/Enemies/Ground & Underworld/Koopas.yy",
+    "path":"folders/Sprites/Enemies/Ground/Koopas.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

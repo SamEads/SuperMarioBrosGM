@@ -1,1 +1,0 @@
-event_perform_object(return_object,ev_draw,0);

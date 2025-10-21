@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_castle_side",
-    "path":"sprites/spr_castle_side/spr_castle_side.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

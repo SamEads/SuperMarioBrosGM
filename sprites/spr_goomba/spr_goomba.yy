@@ -27,7 +27,7 @@
   "origin":1,
   "parent":{
     "name":"Goombas",
-    "path":"folders/Sprites/Enemies/Ground & Underworld/Goombas.yy",
+    "path":"folders/Sprites/Enemies/Ground/Goombas.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -38,7 +38,7 @@ for (var i = 0; i < image_xscale; i ++) {
 		
 	for (var j = 0; j < image_yscale; j ++) {
 					
-		tilemap_pos[i,j] = false;
+		tilemap_pos[i][j] = false;
 				
 	}
 			
@@ -54,7 +54,7 @@ for (var l = 0; l < array_length_1d(waterlayer); l ++) {
 		
 			if (tilemap_get_at_pixel(waterlayer[l],(i*16)+1,((j+dif)*16)+1)) {
 					
-				tilemap_pos[i,j] = true;
+				tilemap_pos[i][j] = true;
 					
 			}
 				

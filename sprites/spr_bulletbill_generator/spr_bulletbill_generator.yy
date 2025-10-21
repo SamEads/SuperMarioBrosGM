@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Generator Pictures",
-    "path":"folders/Sprites/System/Generator Pictures.yy",
+    "name":"Generators",
+    "path":"folders/Sprites/Generators.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

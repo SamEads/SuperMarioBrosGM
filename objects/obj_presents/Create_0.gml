@@ -1,5 +1,5 @@
 obj_controller.draw_hud = false;
 
-present_text = "-HELLOSAMMU-\nPRESENTS";
+present_text = "-NINTENDO-\nPRESENTS";
 
 timer = 0;

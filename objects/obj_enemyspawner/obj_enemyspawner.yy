@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_goombrat",
-    "path":"sprites/spr_goombrat/spr_goombrat.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":false,
 }

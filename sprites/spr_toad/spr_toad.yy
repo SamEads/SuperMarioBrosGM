@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Toad",
-    "path":"folders/Sprites/NPC/Toad.yy",
+    "name":"NPC",
+    "path":"folders/Sprites/NPC.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

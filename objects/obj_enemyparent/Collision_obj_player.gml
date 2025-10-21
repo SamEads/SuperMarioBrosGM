@@ -69,8 +69,6 @@ if (((other.vspd > 0) || ((other.vspd == 0) && (other.bbox_bottom < bbox_top-vsp
 			
 			audio_play_stop_sound(snd_stomp,0,0);
 			
-			effect_create(spr_impact,0.5,other.x,other.y+8);
-		
 			with (other)
 		
 				event_user(0);
