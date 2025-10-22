@@ -41,9 +41,6 @@
     "name":"spr_lakitu",
     "path":"sprites/spr_lakitu/spr_lakitu.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_lakitu",
-    "path":"sprites/spr_lakitu/spr_lakitu.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

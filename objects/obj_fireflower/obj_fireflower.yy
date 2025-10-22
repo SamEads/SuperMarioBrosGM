@@ -15,8 +15,8 @@
     "path":"folders/Objects/Items.yy",
   },
   "parentObjectId":{
-    "name":"obj_physicsparent",
-    "path":"objects/obj_physicsparent/obj_physicsparent.yy",
+    "name":"obj_mushroom",
+    "path":"objects/obj_mushroom/obj_mushroom.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

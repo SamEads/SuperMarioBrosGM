@@ -30,9 +30,7 @@ if (mount != noone) {
 	
 		var hit_spd = 2.5;
 	
-		if (swimming)
-	
-			hit_spd = 1;
+		if (swimming) hit_spd = 1;
 	
 		if (hspd != 0) hspd = -sign(hspd)*hit_spd; else hspd = (other.x > x) ? -hit_spd : hit_spd;
 		vspd -= 1.3;
