@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.105813,
+  "duration":0.100816324,
   "name":"snd_skid",
   "parent":{
     "name":"Sounds",

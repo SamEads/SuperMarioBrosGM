@@ -83,7 +83,7 @@ if (hit == 2) {
 	}
 	
 	obj_controller.stopmusic = true;
-	audio_play_stop_sound(bgm_castleclear,0,0);
+	audio_play_stop_sound(mus_castleclear,0,0);
 		
 	with (obj_castle_end) {
 			

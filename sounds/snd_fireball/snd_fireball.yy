@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.100102,
+  "duration":0.09510204,
   "name":"snd_fireball",
   "parent":{
     "name":"Sounds",

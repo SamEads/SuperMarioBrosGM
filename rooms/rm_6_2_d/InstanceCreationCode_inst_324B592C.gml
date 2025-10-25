@@ -3,7 +3,7 @@
 //Theme
 theme = themetype.desert;
 
-bgm = bgm_invincible;
+bgm = mus_invincible;
 
 background_layer = "Backgrounds_1";
 

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.917313,
+  "duration":0.9123129,
   "name":"snd_powerup",
   "parent":{
     "name":"Sounds",

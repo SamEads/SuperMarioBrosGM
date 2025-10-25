@@ -25,7 +25,7 @@ fireworkpos = 0;
 
 levelendtimer = 60;
 
-songlengthtimer = round(room_speed * audio_sound_length(bgm_courseclear));
+songlengthtimer = round(room_speed * audio_sound_length(mus_courseclear));
 
 done = false;
 

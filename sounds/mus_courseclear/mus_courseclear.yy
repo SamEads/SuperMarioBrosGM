@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_bump",
+  "%Name":"mus_courseclear",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.17986394,
-  "name":"snd_bump",
+  "duration":5.6414967,
+  "name":"mus_courseclear",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"Music",
+    "path":"folders/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_bump.wav",
+  "soundFile":"mus_courseclear.wav",
   "type":1,
   "volume":1.0,
 }

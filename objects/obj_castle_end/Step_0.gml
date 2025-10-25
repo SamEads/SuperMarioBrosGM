@@ -711,8 +711,8 @@ if (active) {
 		if (endtimer == 220) {
 			
 			obj_controller.stopmusic = false;
-			obj_controller.bgm = bgm_princess;
-			obj_controller.bgm_sound = audio_play_sound(bgm_princess,0,0);
+			obj_controller.bgm = mus_princess;
+			obj_controller.bgm_sound = audio_play_sound(mus_princess,0,0);
 			
 		}
 		

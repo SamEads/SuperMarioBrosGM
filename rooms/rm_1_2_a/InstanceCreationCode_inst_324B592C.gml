@@ -1,4 +1,4 @@
-bgm = bgm_pipe;
+bgm = mus_pipe;
 
 leveltime = -1;
 

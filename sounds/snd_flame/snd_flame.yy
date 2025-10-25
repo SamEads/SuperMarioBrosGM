@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.075952,
+  "duration":1.0709524,
   "name":"snd_flame",
   "parent":{
     "name":"Sounds",

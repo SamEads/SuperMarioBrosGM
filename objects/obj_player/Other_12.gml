@@ -26,4 +26,4 @@ obj_controller.stopmusic = true;
 powerup = itemtype.id_small;
 
 //Play the death tune
-audio_play_stop_sound(bgm_death,0,0);
+audio_play_stop_sound(mus_death,0,0);

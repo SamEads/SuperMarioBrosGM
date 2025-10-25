@@ -3,7 +3,7 @@
 //Theme
 theme = themetype.overworld;
 
-bgm = bgm_invincible;
+bgm = mus_invincible;
 
 background_layer = "Backgrounds_1";
 

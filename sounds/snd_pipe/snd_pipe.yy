@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.734864,
+  "duration":0.72986394,
   "name":"snd_pipe",
   "parent":{
     "name":"Sounds",

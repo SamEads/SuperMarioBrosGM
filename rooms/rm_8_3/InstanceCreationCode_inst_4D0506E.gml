@@ -14,4 +14,4 @@ retro_layer = "Tiles_4";
 theme = themetype.athletic;
 
 bgm = bgm_airship;
-retro_bgm = bgm_overworld;
+retro_bgm = mus_overworld;

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.894932,
+  "duration":0.889932,
   "name":"snd_1up_blip",
   "parent":{
     "name":"Sounds",

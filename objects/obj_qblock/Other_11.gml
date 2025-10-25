@@ -54,7 +54,7 @@ if (instance_exists(myitem)) {
 		
 		instance_create_depth(x,y,190,obj_growing_vine)
 		
-		audio_play_stop_sound(snd_growing_vine,0,0);
+		audio_play_stop_sound(snd_vine,0,0);
 	
 		myitem.amount --;
 		

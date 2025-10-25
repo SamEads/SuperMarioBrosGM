@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.520057,
+  "duration":0.51505667,
   "name":"snd_break",
   "parent":{
     "name":"Sounds",

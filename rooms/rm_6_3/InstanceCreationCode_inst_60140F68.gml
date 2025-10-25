@@ -9,6 +9,6 @@ modern_layer[2] = "Foliage";
 retro_layer = "Tiles_1";
 
 retro_theme = themetype.castle;
-retro_bgm = bgm_overworld;
+retro_bgm = mus_overworld;
 
 modern_theme = themetype.desert;

@@ -636,14 +636,14 @@ if (levelstart <= 0) {
 				//Switch the songs
 				switch (theme_to_switch) {
 			
-					default: bgm = bgm_overworld; break;
-					case (themetype.athletic): if (global.moderneffects) bgm = bgm_athletic; else bgm = bgm_overworld; break;
-					case (themetype.forest): if (global.moderneffects) bgm = bgm_forest; else bgm = bgm_overworld; break;
-					case (themetype.snow): if (global.moderneffects) bgm = bgm_snow; else bgm = bgm_overworld; break;
-					case (themetype.desert): if (global.moderneffects) bgm = bgm_desert; else bgm = bgm_overworld; break;
-					case (themetype.cave): bgm = bgm_underground; break;
-					case (themetype.castle): bgm = bgm_castle; break;
-					case (themetype.water): bgm = bgm_water; break;
+					default: bgm = mus_overworld; break;
+					case (themetype.athletic): if (global.moderneffects) bgm = mus_athletic; else bgm = mus_overworld; break;
+					case (themetype.forest): if (global.moderneffects) bgm = bgm_forest; else bgm = mus_overworld; break;
+					case (themetype.snow): if (global.moderneffects) bgm = bgm_snow; else bgm = mus_overworld; break;
+					case (themetype.desert): if (global.moderneffects) bgm = bgm_desert; else bgm = mus_overworld; break;
+					case (themetype.cave): bgm = mus_underground; break;
+					case (themetype.castle): bgm = mus_castle; break;
+					case (themetype.water): bgm = mus_water; break;
 			
 				}
 			
@@ -682,20 +682,20 @@ if (levelstart <= 0) {
 			
 			var play_invincible = true;
 			var play_pswitch = false;
-			var inv_tune = bgm_invincible;
+			var inv_tune = mus_invincible;
 			
 			if (global.pswitch > 0) {
 				
 				play_pswitch = true;
 				
 				//If the P-Switch music isn't playing...
-				if (!audio_is_playing(bgm_pswitch)) {
+				if (!audio_is_playing(mus_pswitch)) {
 		
 					//Stop the normal background music
 					audio_stop_sound(bgm);
 						
 					//Play the P-Switch music
-					bgm_sound = audio_play_sound(bgm_pswitch,0,0);
+					bgm_sound = audio_play_sound(mus_pswitch,0,0);
 		
 				}
 				
@@ -735,9 +735,9 @@ if (levelstart <= 0) {
 				}
 
 				//Stop p-switch tune
-				if (audio_is_playing(bgm_pswitch)) {
+				if (audio_is_playing(mus_pswitch)) {
 		
-					audio_stop_sound(bgm_pswitch);
+					audio_stop_sound(mus_pswitch);
 		
 				}
 		

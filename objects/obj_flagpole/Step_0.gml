@@ -159,7 +159,7 @@ if (player) {
 				
 				if (player.powerup != itemtype.id_subcon)
 				
-					audio_play_stop_sound(bgm_courseclear,0,0);
+					audio_play_stop_sound(mus_courseclear,0,0);
 					
 				else {
 				
@@ -241,7 +241,7 @@ if (player) {
 			if (endsequence == 0) {
 			
 				endsequence = 1;
-				audio_play_stop_sound(snd_flag_raise,0,0);
+				audio_play_stop_sound(snd_flag,0,0);
 			
 			}
 		

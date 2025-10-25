@@ -15,7 +15,7 @@ function music_loops() {
 		
 	}
 
-	if (bgm == bgm_castle) {
+	if (bgm == mus_castle) {
 		
 		loopstart = 0;
 		loopend = 87.813;
@@ -23,7 +23,7 @@ function music_loops() {
 	}
 
 	//Overworld loop
-	if (bgm == bgm_overworld) {
+	if (bgm == mus_overworld) {
 		
 		loopstart = 2.412;
 		loopend = 88.683;
@@ -31,14 +31,14 @@ function music_loops() {
 	}
 	
 	//Underground loop
-	if (bgm == bgm_underground) {
+	if (bgm == mus_underground) {
 		
 		loopstart = 0;
 		loopend = 12.585;
 		
 	}
 	
-	if (bgm == bgm_pipe) {
+	if (bgm == mus_pipe) {
 		
 		loopstart = 0;
 		loopend = 2.312;
@@ -54,14 +54,14 @@ function music_loops() {
 		
 	}
 	
-	if (bgm == bgm_princess) {
+	if (bgm == mus_princess) {
 		
 		loopstart = 1.213;
 		loopend = 7.602;
 		
 	}
 	
-	if (bgm == bgm_athletic) {
+	if (bgm == mus_athletic) {
 		
 		loopstart = 2.456;
 		loopend = 64.556;
@@ -75,7 +75,7 @@ function music_loops() {
 		
 	}
 	
-	if (bgm == bgm_water) {
+	if (bgm == mus_water) {
 		
 		loopstart = 3.973;
 		loopend = 29.538;
@@ -96,7 +96,7 @@ function music_loops() {
 		
 	}
 	
-	if (audio_is_playing(bgm_invincible)) {
+	if (audio_is_playing(mus_invincible)) {
 		
 		loopstart = 0.18;
 		loopend = 3.37;

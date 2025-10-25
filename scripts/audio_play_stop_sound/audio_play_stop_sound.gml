@@ -29,7 +29,7 @@ function audio_play_stop_sound() {
 			case (snd_bump):
 			case (snd_coin):
 			case (snd_flame):
-			case (snd_growing_vine):
+			case (snd_vine):
 			case (snd_kick):
 			case (snd_stomp):
 			case (snd_pipe):

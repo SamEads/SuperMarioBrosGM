@@ -1,4 +1,4 @@
-bgm = (global.moderneffects) ? bgm_pipe_forest : bgm_pipe;
+bgm = (global.moderneffects) ? bgm_pipe_forest : mus_pipe;
 
 leveltime = -1;
 
