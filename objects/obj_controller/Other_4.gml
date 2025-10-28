@@ -40,21 +40,21 @@ choosemusic = false;
 //Set height
 set_height = room_height;
 
-if instance_exists(obj_levelcontrol) {
+if instance_exists(obj_levelmanager) {
 	
-	set_height = obj_levelcontrol.set_height;
+	set_height = obj_levelmanager.set_height;
 	
 	choosemusic = true;
 	
 	stopmusic = false;
 	
-	if (obj_levelcontrol.playmusic == false)
+	if (obj_levelmanager.playmusic == false)
 	
 		stopmusic = true;
 	
 	if (mainleveltime == -1) {
 		
-		mainleveltime = obj_levelcontrol.leveltime;
+		mainleveltime = obj_levelmanager.leveltime;
 		
 		if (mainleveltime <= 0)
 		
@@ -91,11 +91,11 @@ if instance_exists(obj_levelcontrol) {
 	
 		lev = _w+"*"+string(global.level);
 
-	if (instance_exists(obj_levelcontrol)) {
+	if (instance_exists(obj_levelmanager)) {
 	
-		if (obj_levelcontrol.levelname != -1) {
+		if (obj_levelmanager.levelname != -1) {
 		
-			lev = obj_levelcontrol.levelname;
+			lev = obj_levelmanager.levelname;
 		
 		}
 	

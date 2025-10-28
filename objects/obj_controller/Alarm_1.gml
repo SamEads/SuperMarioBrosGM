@@ -2,11 +2,11 @@
 
 if (!instance_exists(obj_player)) exit;
 
-if (obj_levelcontrol.freescroll == false) {
+if (obj_levelmanager.freescroll == false) {
 	
-	if (obj_levelcontrol.followplayer)
+	if (obj_levelmanager.followplayer)
 
-		obj_levelcontrol.camX = round(obj_player.x)+64;
+		obj_levelmanager.camX = round(obj_player.x)+64;
 
 	if (x < camera_get_view_x(view_camera[0])+(camera_get_view_width(view_camera[0])/2))
 
@@ -24,8 +24,8 @@ if (obj_levelcontrol.freescroll == false) {
 	
 } else {
 	
-	obj_levelcontrol.camX = obj_player.x;
-	obj_levelcontrol.y = obj_player.y+16;
-	obj_levelcontrol.dest_y = obj_player.y;
+	obj_levelmanager.camX = obj_player.x;
+	obj_levelmanager.y = obj_player.y+16;
+	obj_levelmanager.dest_y = obj_player.y;
 	
 }

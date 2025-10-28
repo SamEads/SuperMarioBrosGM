@@ -21,7 +21,7 @@ if (!global.moderneffects) {
 		
 				bg_fade = 0;
 		
-				with (obj_levelcontrol) {
+				with (obj_levelmanager) {
 			
 					other.bg_fade = 3;
 					event_user(0);

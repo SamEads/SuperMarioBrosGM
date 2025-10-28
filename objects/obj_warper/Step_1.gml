@@ -10,7 +10,7 @@ if (active) {
 
 	if (player) {
 	
-		var dif = obj_levelcontrol.camX-obj_player.x;
+		var dif = obj_levelmanager.camX-obj_player.x;
 
 		player.x += new_x-x;
 		
@@ -22,7 +22,7 @@ if (active) {
 		}
 		
 		player.xprevious += new_x-x;
-		obj_levelcontrol.camX = player.x+dif;
+		obj_levelmanager.camX = player.x+dif;
 		player.y += new_y-y;
 		obj_controller.set_height = set_height;
 		

@@ -36,7 +36,7 @@ if (global.hudstyle == 0) {
 	draw_text_custom(_xx+24,_yy+24,scorevis);
 
 	//Coins
-	if (instance_exists(obj_levelcontrol)) pal_swap_set(spr_pal_hudcoin,currenttheme);
+	if (instance_exists(obj_levelmanager)) pal_swap_set(spr_pal_hudcoin,currenttheme);
 		
 	var hudcoin;
 		
@@ -76,7 +76,7 @@ if (global.hudstyle == 1) {
 	draw_set_halign(fa_left);
 	
 	//Coins
-	if (instance_exists(obj_levelcontrol)) pal_swap_set(spr_pal_main,currenttheme);
+	if (instance_exists(obj_levelmanager)) pal_swap_set(spr_pal_main,currenttheme);
 	draw_sprite(spr_hud_coin,global.tick,_xx+(_ww/2)-(_ww/8)+8,_yy);
 	shader_reset();
 	draw_text_custom(_xx+(_ww/2)-(_ww/8)+16,_yy,"x");
@@ -114,7 +114,7 @@ if (global.hudstyle == 2) {
 	if (showtime || global.moderneffects) draw_text_custom(_xx+(_ww/2)-2,_yy,timevis);
 	
 	//Coins
-	if (instance_exists(obj_levelcontrol)) pal_swap_set(spr_pal_main,currenttheme);
+	if (instance_exists(obj_levelmanager)) pal_swap_set(spr_pal_main,currenttheme);
 	draw_sprite(spr_hud_coin,global.tick,_xx+(_ww/2)+(_ww/4)-32,_yy);
 	shader_reset();
 	var coinvis = string_replace_all(string_format(displaycoins,2,0)," ","0");

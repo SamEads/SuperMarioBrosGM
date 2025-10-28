@@ -13,34 +13,23 @@ if (collision_rectangle(x,bbox_bottom+2,x,bbox_bottom+2,obj_blockparent,0,1)) {
 }
 
 switch (global.moderneffects) {
-	
 	default:
-
 		switch (obj_controller.currenttheme) {
-	
 			default: sprite_index = spr_coin; break;
 			case (themetype.cave): sprite_index = spr_coin_cave; break;
 			case (themetype.castle): sprite_index = spr_coin_castle; break;
 			case (themetype.water): sprite_index = spr_coin_water; break;
 			case (themetype.desert): sprite_index = spr_coin_desert; break;
-	
 		}
-	
 		break;
-		
 	case (true):
-
 		switch (obj_controller.currenttheme) {
-	
 			default: sprite_index = spr_coin_modern; break;
 			case (themetype.cave): sprite_index = spr_coin_cave_modern; break;
 			case (themetype.castle): sprite_index = spr_coin_castle_modern; break;
 			case (themetype.desert): sprite_index = spr_coin_desert_modern; break;
-	
 		}
-	
 		break;
-	
 }
 
 if (coin_start && global.pswitch > 0)

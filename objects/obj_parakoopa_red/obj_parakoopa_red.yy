@@ -14,8 +14,8 @@
     "path":"folders/Objects/Enemies/Ground.yy",
   },
   "parentObjectId":{
-    "name":"obj_enemyparent",
-    "path":"objects/obj_enemyparent/obj_enemyparent.yy",
+    "name":"obj_parakoopa_green",
+    "path":"objects/obj_parakoopa_green/obj_parakoopa_green.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

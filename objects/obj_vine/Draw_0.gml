@@ -1,4 +1,4 @@
-if (instance_exists(obj_levelcontrol))
+if (instance_exists(obj_levelmanager))
 
 	pal_swap_set(spr_pal_main,obj_controller.currenttheme);
 

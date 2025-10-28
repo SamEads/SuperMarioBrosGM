@@ -9,9 +9,9 @@ for (var i = 0; i < array_length(a); i ++) {
 		
 		var skip = false;
 		
-		for (var k = 0; k < array_length(obj_levelcontrol.modern_layer); k ++) {
+		for (var k = 0; k < array_length(obj_levelmanager.modern_layer); k ++) {
 			
-			if (layer_get_name(a[i]) == layer_get_name(obj_levelcontrol.modern_layer[k])) {
+			if (layer_get_name(a[i]) == layer_get_name(obj_levelmanager.modern_layer[k])) {
 			
 				skip = true;
 				

@@ -351,7 +351,7 @@ if (levelstart > 0 && fadetimer <= 0) {
 		//Set the player and camera position	
 		obj_player.x = global.midwaypoint_x;
 		obj_player.y = room_height;
-		obj_levelcontrol.camX = obj_player.x + 80;
+		obj_levelmanager.camX = obj_player.x + 80;
 			
 		//Make it so the player isn't lodged into a block
 		with (obj_player) {
@@ -420,7 +420,7 @@ if (levelstart > 0 && fadetimer <= 0) {
 	}
 	
 //If the level start screen isn't showing, manage some things
-} else if (instance_exists(obj_levelcontrol) && fade_dir != 1) {
+} else if (instance_exists(obj_levelmanager) && fade_dir != 1) {
 	
 	//Put the HUD above or below things
 	if (global.moderneffects) {
@@ -434,17 +434,17 @@ if (levelstart > 0 && fadetimer <= 0) {
 	}
 	
 	//Manage alternate themes
-	if (global.moderneffects && obj_levelcontrol.modern_theme != -1)
+	if (global.moderneffects && obj_levelmanager.modern_theme != -1)
 		
-		currenttheme = obj_levelcontrol.modern_theme;
+		currenttheme = obj_levelmanager.modern_theme;
 		
-	else if (!global.moderneffects && obj_levelcontrol.retro_theme != -1)
+	else if (!global.moderneffects && obj_levelmanager.retro_theme != -1)
 	
-		currenttheme = obj_levelcontrol.retro_theme;
+		currenttheme = obj_levelmanager.retro_theme;
 		
 	else
 	
-		currenttheme = obj_levelcontrol.theme;
+		currenttheme = obj_levelmanager.theme;
 	
 	//Route athletic palette to overworld
 	if (currenttheme == themetype.athletic)
@@ -562,7 +562,7 @@ if (fadetimer > 0) {
 		
 		bg_fade = 0;
 		
-		with (obj_levelcontrol) {
+		with (obj_levelmanager) {
 			
 			other.bg_fade = 3;
 			event_user(0);
@@ -616,22 +616,22 @@ if (levelstart <= 0) {
 	if (choosemusic) {
 	
 		//If the level control object exists
-		if (instance_exists(obj_levelcontrol)) {
+		if (instance_exists(obj_levelmanager)) {
 			
 			//Remember the old background music
 			var old_bgm = bgm;
 			
 			if (!global.levelcleared) {
 			
-				var theme_to_switch = obj_levelcontrol.theme;
+				var theme_to_switch = obj_levelmanager.theme;
 			
-				if (obj_levelcontrol.modern_theme != -1 && global.moderneffects)
+				if (obj_levelmanager.modern_theme != -1 && global.moderneffects)
 			
-					theme_to_switch = obj_levelcontrol.modern_theme;
+					theme_to_switch = obj_levelmanager.modern_theme;
 				
-				if (obj_levelcontrol.retro_theme != -1 && !global.moderneffects)
+				if (obj_levelmanager.retro_theme != -1 && !global.moderneffects)
 			
-					theme_to_switch = obj_levelcontrol.retro_theme;
+					theme_to_switch = obj_levelmanager.retro_theme;
 		
 				//Switch the songs
 				switch (theme_to_switch) {
@@ -648,18 +648,18 @@ if (levelstart <= 0) {
 				}
 			
 				//Choose different background music if the level control "bgm" variable is different
-				if (obj_levelcontrol.bgm != -1)
+				if (obj_levelmanager.bgm != -1)
 			
-					if ((global.moderneffects) || (!global.moderneffects && obj_levelcontrol.retro_bgm == -1))
+					if ((global.moderneffects) || (!global.moderneffects && obj_levelmanager.retro_bgm == -1))
 				
-						bgm = obj_levelcontrol.bgm;
+						bgm = obj_levelmanager.bgm;
 					
 				//Choose different music only for retro mode if you're in retro mode currently
-				if (obj_levelcontrol.retro_bgm != -1)
+				if (obj_levelmanager.retro_bgm != -1)
 			
 					if (!global.moderneffects)
 				
-						bgm = obj_levelcontrol.retro_bgm;
+						bgm = obj_levelmanager.retro_bgm;
 					
 			}
 			

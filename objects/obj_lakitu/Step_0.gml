@@ -131,11 +131,11 @@ if (!leaving) {
 
 if (!leaving) {
 
-	if ((x < obj_levelcontrol.camX-128+40) && hspd < 0)
+	if ((x < obj_levelmanager.camX-128+40) && hspd < 0)
 	
 		hspd = 1.25;
 	
-	else if ((x > obj_levelcontrol.camX+128-40) && hspd > 0)
+	else if ((x > obj_levelmanager.camX+128-40) && hspd > 0)
 
 		hspd = -1.25;
 	

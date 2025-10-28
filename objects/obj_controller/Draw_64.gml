@@ -162,7 +162,7 @@ if (draw_hud) {
 			
 			}
 	
-			if (instance_exists(obj_levelcontrol)) pal_swap_set(spr_pal_hudcoin,currenttheme);
+			if (instance_exists(obj_levelmanager)) pal_swap_set(spr_pal_hudcoin,currenttheme);
 			draw_sprite(hudcoin,global.tick,hud_left_x_offset-2,22+coin_y_offset);
 			shader_reset();
 

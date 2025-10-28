@@ -174,7 +174,7 @@
     {"id":{"name":"obj_lakitu","path":"objects/obj_lakitu/obj_lakitu.yy",},},
     {"id":{"name":"obj_lava","path":"objects/obj_lava/obj_lava.yy",},},
     {"id":{"name":"obj_left","path":"objects/obj_left/obj_left.yy",},},
-    {"id":{"name":"obj_levelcontrol","path":"objects/obj_levelcontrol/obj_levelcontrol.yy",},},
+    {"id":{"name":"obj_levelmanager","path":"objects/obj_levelmanager/obj_levelmanager.yy",},},
     {"id":{"name":"obj_liquid_stick","path":"objects/obj_liquid_stick/obj_liquid_stick.yy",},},
     {"id":{"name":"obj_liquid","path":"objects/obj_liquid/obj_liquid.yy",},},
     {"id":{"name":"obj_midwaypoint","path":"objects/obj_midwaypoint/obj_midwaypoint.yy",},},
