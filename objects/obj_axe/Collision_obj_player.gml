@@ -1,6 +1,6 @@
 if (instance_exists(obj_bowser) && hit == 0) {
 	
-	with (obj_enemyparent)
+	with (obj_enemy_parent)
 	
 		if (object_index != obj_bowser && object_index != obj_bowser_hammer && object_index != obj_bowser_true)
 		
@@ -39,7 +39,7 @@ if (instance_exists(obj_bowser) && hit == 0) {
 		instance_destroy();
 		
 	var j = 0;
-	var captor = obj_physicsparent;
+	var captor = obj_physics_parent;
 	
 	var quickend = false;
 	

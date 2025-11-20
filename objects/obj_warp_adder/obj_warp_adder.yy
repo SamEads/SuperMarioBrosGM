@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_path_adder",
-    "path":"sprites/spr_path_adder/spr_path_adder.yy",
+    "name":"spr_arrow_orange_red",
+    "path":"sprites/spr_arrow_orange_red/spr_arrow_orange_red.yy",
   },
   "spriteMaskId":null,
   "visible":true,

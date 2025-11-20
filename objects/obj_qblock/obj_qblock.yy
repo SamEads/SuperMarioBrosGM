@@ -18,8 +18,8 @@
     "path":"folders/Objects/Blocks & Modifiers.yy",
   },
   "parentObjectId":{
-    "name":"obj_blockparent",
-    "path":"objects/obj_blockparent/obj_blockparent.yy",
+    "name":"obj_block_parent",
+    "path":"objects/obj_block_parent/obj_block_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fireflower_modifier",
-    "path":"sprites/spr_fireflower_modifier/spr_fireflower_modifier.yy",
+    "name":"spr_modifier_fire_flower",
+    "path":"sprites/spr_modifier_fire_flower/spr_modifier_fire_flower.yy",
   },
   "spriteMaskId":null,
   "visible":false,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_coin",
   "bboxMode":0,
   "bbox_bottom":14,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3339bb25-ae3a-46da-a84a-f76901ba99a0","name":"3339bb25-ae3a-46da-a84a-f76901ba99a0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"72cb91d9-172c-4a2b-856c-fb53f68c1a55","name":"72cb91d9-172c-4a2b-856c-fb53f68c1a55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"dcd6d0b0-4dca-4773-a333-fee4c3d02f72","name":"dcd6d0b0-4dca-4773-a333-fee4c3d02f72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c3fbda45-1e02-4f29-b0af-2c8cf2bb2598","name":"c3fbda45-1e02-4f29-b0af-2c8cf2bb2598","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3339bb25-ae3a-46da-a84a-f76901ba99a0","name":"3339bb25-ae3a-46da-a84a-f76901ba99a0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"72cb91d9-172c-4a2b-856c-fb53f68c1a55","name":"72cb91d9-172c-4a2b-856c-fb53f68c1a55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dcd6d0b0-4dca-4773-a333-fee4c3d02f72","name":"dcd6d0b0-4dca-4773-a333-fee4c3d02f72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c3fbda45-1e02-4f29-b0af-2c8cf2bb2598","name":"c3fbda45-1e02-4f29-b0af-2c8cf2bb2598","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Classic",
-    "path":"folders/Sprites/Items/Coin/Classic.yy",
+    "name":"Items",
+    "path":"folders/Sprites/Items.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_platform_activate",
   "bboxMode":0,
   "bbox_bottom":7,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4669e749-832c-4e15-9af8-323ad03fd8d5","name":"4669e749-832c-4e15-9af8-323ad03fd8d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4669e749-832c-4e15-9af8-323ad03fd8d5","name":"4669e749-832c-4e15-9af8-323ad03fd8d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Collisions",
-    "path":"folders/Sprites/Collisions.yy",
+    "name":"Solids",
+    "path":"folders/Sprites/Solids.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

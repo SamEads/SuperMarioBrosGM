@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_toadette_shoot",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0f2a0fdd-ef3d-43ef-b2c4-69b0b52c0cba","name":"0f2a0fdd-ef3d-43ef-b2c4-69b0b52c0cba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0f2a0fdd-ef3d-43ef-b2c4-69b0b52c0cba","name":"0f2a0fdd-ef3d-43ef-b2c4-69b0b52c0cba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

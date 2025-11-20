@@ -1,4 +1,4 @@
-// Inherit the parent event
+sp// Inherit the parent event
 event_inherited();
 
 if (global.frozen) exit;

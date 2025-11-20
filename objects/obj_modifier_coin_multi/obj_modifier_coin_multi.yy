@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_coin_multi",
-    "path":"sprites/spr_coin_multi/spr_coin_multi.yy",
+    "name":"spr_modifier_conis",
+    "path":"sprites/spr_modifier_conis/spr_modifier_conis.yy",
   },
   "spriteMaskId":null,
   "visible":false,

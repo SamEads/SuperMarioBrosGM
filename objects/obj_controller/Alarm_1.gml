@@ -12,7 +12,7 @@ if (obj_levelmanager.freescroll == false) {
 
 		x = camera_get_view_x(view_camera[0])+(camera_get_view_width(view_camera[0])/2)+0.1;
 	
-	with (obj_enemyparent) {
+	with (obj_enemy_parent) {
 	
 		if (distance_to_point(obj_player.x,y) < 64) && (depth < 100) {
 		

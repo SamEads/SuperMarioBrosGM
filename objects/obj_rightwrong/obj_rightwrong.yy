@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chooser",
-    "path":"sprites/spr_chooser/spr_chooser.yy",
+    "name":"spr_arrow_green",
+    "path":"sprites/spr_arrow_green/spr_arrow_green.yy",
   },
   "spriteMaskId":null,
   "visible":false,

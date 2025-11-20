@@ -29,7 +29,7 @@ if (sprouting) {
 
 if (global.frozen) exit;
 
-block = collision_point(x,bbox_bottom+2,obj_blockparent,0,0);
+block = collision_point(x,bbox_bottom+2,obj_block_parent,0,0);
 
 if (block) {
 	

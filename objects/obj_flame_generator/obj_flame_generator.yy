@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_flame_generator",
-    "path":"sprites/spr_flame_generator/spr_flame_generator.yy",
+    "name":"spr_generator_flames",
+    "path":"sprites/spr_generator_flames/spr_generator_flames.yy",
   },
   "spriteMaskId":null,
   "visible":true,

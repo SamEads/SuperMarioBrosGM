@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bulletbill_generator",
-    "path":"sprites/spr_bulletbill_generator/spr_bulletbill_generator.yy",
+    "name":"spr_generator_bullet_bills",
+    "path":"sprites/spr_generator_bullet_bills/spr_generator_bullet_bills.yy",
   },
   "spriteMaskId":null,
   "visible":false,

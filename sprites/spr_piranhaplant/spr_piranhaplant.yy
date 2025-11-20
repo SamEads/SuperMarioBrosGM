@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_piranhaplant",
   "bboxMode":2,
   "bbox_bottom":23,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ba8ce74b-da9b-48bf-b956-282f648815ff","name":"ba8ce74b-da9b-48bf-b956-282f648815ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"48ecdd12-acc9-4544-8efd-67ae77610da9","name":"48ecdd12-acc9-4544-8efd-67ae77610da9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ba8ce74b-da9b-48bf-b956-282f648815ff","name":"ba8ce74b-da9b-48bf-b956-282f648815ff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"48ecdd12-acc9-4544-8efd-67ae77610da9","name":"48ecdd12-acc9-4544-8efd-67ae77610da9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

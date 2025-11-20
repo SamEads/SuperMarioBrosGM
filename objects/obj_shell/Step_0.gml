@@ -15,7 +15,7 @@ if (dead) exit;
 // Make a bump sound
 if (collision_rectangle(bbox_right, bbox_top+5, bbox_right+abs(hspd), bbox_bottom-4, obj_solid, 1, 0) && hspd > 0) || (collision_rectangle(bbox_left-abs(hspd), bbox_top+5, bbox_left, bbox_bottom-4, obj_solid, 1, 0) && hspd < 0) {
 
-    if (moving && !collision_rectangle(bbox_left-abs(hspd), bbox_top+5, bbox_right+abs(hspd), bbox_bottom-4, obj_blockparent, 1, 0)) {
+    if (moving && !collision_rectangle(bbox_left-abs(hspd), bbox_top+5, bbox_right+abs(hspd), bbox_bottom-4, obj_block_parent, 1, 0)) {
 		
 		if point_in_rectangle(x,y,camera_get_view_x(view_camera[0])-16,camera_get_view_y(view_camera[0])-16,camera_get_view_x(view_camera[0])+camera_get_view_width(view_camera[0])+16,camera_get_view_y(view_camera[0])+camera_get_view_height(view_camera[0])+16) {
     
@@ -34,7 +34,7 @@ if (wallframe)
 if (global.moderneffects) {
 
 	//Hit block from sides
-	var blockparent = collision_rectangle(bbox_left-(abs(hspd)),bbox_top+1+abs(vspd),bbox_right+(abs(hspd)),bbox_bottom-1-vspd,obj_blockparent,0,1);
+	var blockparent = collision_rectangle(bbox_left-(abs(hspd)),bbox_top+1+abs(vspd),bbox_right+(abs(hspd)),bbox_bottom-1-vspd,obj_block_parent,0,1);
 
 	if (blockparent) {
 	

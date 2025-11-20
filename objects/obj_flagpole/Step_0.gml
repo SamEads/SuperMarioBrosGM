@@ -125,7 +125,7 @@ if (player) {
 				
 				combo = 0;
 				
-				with (obj_enemyparent) {
+				with (obj_enemy_parent) {
 					
 					instance_destroy();
 					other.combo ++;

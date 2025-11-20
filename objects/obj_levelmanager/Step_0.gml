@@ -63,13 +63,13 @@ if (instance_exists(obj_controller)) {
 
 #endregion
 
-instance_deactivate_object(obj_blockparent);
+instance_deactivate_object(obj_block_parent);
 
 var spacing = 96;
 
 if (global.editormode) {
 
-	instance_deactivate_object(obj_enemyparent);
+	instance_deactivate_object(obj_enemy_parent);
 	spacing = 32;
 	
 }

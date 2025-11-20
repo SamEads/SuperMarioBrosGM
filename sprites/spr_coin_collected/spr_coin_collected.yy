@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_coin_collected",
   "bboxMode":1,
   "bbox_bottom":15,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"dcc342b6-aee4-4e23-8925-75be993c8d7a","name":"dcc342b6-aee4-4e23-8925-75be993c8d7a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3296278f-7e05-4c4d-a84c-676b288448e4","name":"3296278f-7e05-4c4d-a84c-676b288448e4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e7e73f66-813b-48c2-868a-89f779275ece","name":"e7e73f66-813b-48c2-868a-89f779275ece","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9dfd41bf-323a-43c3-b635-0839591f7f9c","name":"9dfd41bf-323a-43c3-b635-0839591f7f9c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dcc342b6-aee4-4e23-8925-75be993c8d7a","name":"dcc342b6-aee4-4e23-8925-75be993c8d7a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3296278f-7e05-4c4d-a84c-676b288448e4","name":"3296278f-7e05-4c4d-a84c-676b288448e4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e7e73f66-813b-48c2-868a-89f779275ece","name":"e7e73f66-813b-48c2-868a-89f779275ece","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9dfd41bf-323a-43c3-b635-0839591f7f9c","name":"9dfd41bf-323a-43c3-b635-0839591f7f9c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Eyecandy",
-    "path":"folders/Sprites/Eyecandy.yy",
+    "name":"Particles",
+    "path":"folders/Sprites/Particles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

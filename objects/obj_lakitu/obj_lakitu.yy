@@ -17,8 +17,8 @@
     "path":"folders/Objects/Enemies/Ground.yy",
   },
   "parentObjectId":{
-    "name":"obj_enemyparent",
-    "path":"objects/obj_enemyparent/obj_enemyparent.yy",
+    "name":"obj_enemy_parent",
+    "path":"objects/obj_enemy_parent/obj_enemy_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

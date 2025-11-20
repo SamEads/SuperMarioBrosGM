@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_star_modifier",
-    "path":"sprites/spr_star_modifier/spr_star_modifier.yy",
+    "name":"spr_modifier_star",
+    "path":"sprites/spr_modifier_star/spr_modifier_star.yy",
   },
   "spriteMaskId":null,
   "visible":false,

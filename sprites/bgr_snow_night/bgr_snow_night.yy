@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"bgr_snow_night",
   "bboxMode":0,
   "bbox_bottom":511,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"061c3b20-f280-4893-b87c-acd574ab5b91","name":"061c3b20-f280-4893-b87c-acd574ab5b91","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2e368f97-300d-4066-989b-f3ba85bfe3e7","name":"2e368f97-300d-4066-989b-f3ba85bfe3e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"061c3b20-f280-4893-b87c-acd574ab5b91","name":"061c3b20-f280-4893-b87c-acd574ab5b91","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2e368f97-300d-4066-989b-f3ba85bfe3e7","name":"2e368f97-300d-4066-989b-f3ba85bfe3e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

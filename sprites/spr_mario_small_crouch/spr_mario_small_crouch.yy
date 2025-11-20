@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_mario_small_crouch",
   "bboxMode":2,
   "bbox_bottom":15,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"fc3ae6fe-ee86-4c3e-b5b6-cdf3ed27314d","name":"fc3ae6fe-ee86-4c3e-b5b6-cdf3ed27314d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0619243c-a1df-4321-866e-a81faa0cfe55","name":"0619243c-a1df-4321-866e-a81faa0cfe55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fc3ae6fe-ee86-4c3e-b5b6-cdf3ed27314d","name":"fc3ae6fe-ee86-4c3e-b5b6-cdf3ed27314d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0619243c-a1df-4321-866e-a81faa0cfe55","name":"0619243c-a1df-4321-866e-a81faa0cfe55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

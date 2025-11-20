@@ -1,10 +1,10 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_pal_hudcoin",
   "bboxMode":0,
   "bbox_bottom":2,
   "bbox_left":0,
-  "bbox_right":5,
+  "bbox_right":3,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b3e3e55e-70e0-4a22-8571-5434ebfcd731","name":"b3e3e55e-70e0-4a22-8571-5434ebfcd731","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b3e3e55e-70e0-4a22-8571-5434ebfcd731","name":"b3e3e55e-70e0-4a22-8571-5434ebfcd731","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -63,6 +63,8 @@
     "playbackSpeedType":1,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":3.0,
+    "seqWidth":4.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
@@ -84,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":6,
+  "width":4,
 }

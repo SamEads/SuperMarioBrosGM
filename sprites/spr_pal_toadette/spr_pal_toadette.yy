@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_pal_toadette",
   "bboxMode":0,
   "bbox_bottom":2,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4417a3d4-137c-4297-973c-fa3c8b111e8c","name":"4417a3d4-137c-4297-973c-fa3c8b111e8c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4417a3d4-137c-4297-973c-fa3c8b111e8c","name":"4417a3d4-137c-4297-973c-fa3c8b111e8c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -63,6 +63,8 @@
     "playbackSpeedType":1,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":3.0,
+    "seqWidth":14.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,

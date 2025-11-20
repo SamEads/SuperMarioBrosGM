@@ -97,11 +97,11 @@ if (chasing) {
 			highjump = false;
 				
 			// if not currently on a block, do a large jump
-			if (!collision_rectangle(x,bbox_bottom,x,bbox_bottom+4,obj_blockparent,false,true)) {
+			if (!collision_rectangle(x,bbox_bottom,x,bbox_bottom+4,obj_block_parent,false,true)) {
 				highjump = true;
 			}
 			// if already on a block, 50 / 50 dice roll on high low jump
-			else if (collision_rectangle(x,bbox_top,x,bbox_top-64,obj_blockparent,false,true)) {
+			else if (collision_rectangle(x,bbox_top,x,bbox_top-64,obj_block_parent,false,true)) {
 				highjump = choose(true, false);
 					
 				if (!highjump) {
@@ -111,7 +111,7 @@ if (chasing) {
 					
 			}
 			// no set of blocks on top of hammer bro, so jump down a layer
-			else if (collision_rectangle(x,bbox_bottom,x,bbox_bottom+4,obj_blockparent,false,true) && !highjump) {
+			else if (collision_rectangle(x,bbox_bottom,x,bbox_bottom+4,obj_block_parent,false,true) && !highjump) {
 				lowjump_timer = 20;
 				do_lowjump = true;
 			}

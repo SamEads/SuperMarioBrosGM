@@ -190,7 +190,7 @@ if (draw_hud) {
 			
 			if (global.smb2_mode) {
 				
-				pal_swap_set(spr_pal_coin,obj_controller.currenttheme);
+				pal_swap_set(spr_pal_font,obj_controller.currenttheme);
 				draw_sprite_ext(spr_time,2,display_get_gui_width()-35-hud_right_x_offset,13,1,1,0,c_white,1);
 				shader_reset();
 				

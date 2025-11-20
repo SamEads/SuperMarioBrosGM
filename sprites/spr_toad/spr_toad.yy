@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_toad",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2ee902eb-6e42-4bc5-afba-08edaf0df6b2","name":"2ee902eb-6e42-4bc5-afba-08edaf0df6b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"584a7cfe-eb70-4bb5-b552-06c44c508373","name":"584a7cfe-eb70-4bb5-b552-06c44c508373","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2ee902eb-6e42-4bc5-afba-08edaf0df6b2","name":"2ee902eb-6e42-4bc5-afba-08edaf0df6b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"584a7cfe-eb70-4bb5-b552-06c44c508373","name":"584a7cfe-eb70-4bb5-b552-06c44c508373","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"NPC",
-    "path":"folders/Sprites/NPC.yy",
+    "name":"Entities",
+    "path":"folders/Sprites/Entities.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

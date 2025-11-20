@@ -168,7 +168,7 @@ function physics_collision(ignorecorners,autograv) {
 				
 				if (!swimming) {
 		
-					var blockparent = collision_rectangle(_left,bbox_top+extra_top,_right,bbox_top+extra_top+abs(vspd),obj_blockparent,1,0);
+					var blockparent = collision_rectangle(_left,bbox_top+extra_top,_right,bbox_top+extra_top+abs(vspd),obj_block_parent,1,0);
 
 					if (blockparent) {
 				

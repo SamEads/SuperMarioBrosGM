@@ -1,10 +1,10 @@
 var dist = 8;
 
-if (collision_rectangle(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_blockparent,0,1)) {
+if (collision_rectangle(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_block_parent,0,1)) {
 
 	//Destroy all blocks in the distance provided
 	var _l = ds_list_create();
-	var _blocks = collision_rectangle_list(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_blockparent,0,1,_l,false);
+	var _blocks = collision_rectangle_list(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_block_parent,0,1,_l,false);
 
 	if (_blocks > 0) {
 	
@@ -25,11 +25,11 @@ if (collision_rectangle(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom
 	
 }
 
-if (collision_rectangle(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_enemyparent,0,1)) {
+if (collision_rectangle(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_enemy_parent,0,1)) {
 
 	//Kill all enemies in the distance provided
 	var _l = ds_list_create();
-	var _enemies = collision_rectangle_list(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_enemyparent,0,1,_l,false);
+	var _enemies = collision_rectangle_list(bbox_left-dist,bbox_top-dist,bbox_right+dist,bbox_bottom+dist,obj_enemy_parent,0,1,_l,false);
 
 	if (_enemies > 0) {
 	

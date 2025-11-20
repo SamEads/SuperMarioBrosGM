@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_text_1up",
   "bboxMode":0,
   "bbox_bottom":7,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e7ba87bd-82f0-449f-a0c9-df79b49a7636","name":"e7ba87bd-82f0-449f-a0c9-df79b49a7636","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1cb562f1-bce2-42f7-a57d-a3057fa552b7","name":"1cb562f1-bce2-42f7-a57d-a3057fa552b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e7ba87bd-82f0-449f-a0c9-df79b49a7636","name":"e7ba87bd-82f0-449f-a0c9-df79b49a7636","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1cb562f1-bce2-42f7-a57d-a3057fa552b7","name":"1cb562f1-bce2-42f7-a57d-a3057fa552b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Text",
-    "path":"folders/Sprites/Text.yy",
+    "name":"UI",
+    "path":"folders/Sprites/UI.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

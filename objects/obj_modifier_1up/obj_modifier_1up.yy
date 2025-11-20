@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_1up_modifier",
-    "path":"sprites/spr_1up_modifier/spr_1up_modifier.yy",
+    "name":"spr_modifier_1up",
+    "path":"sprites/spr_modifier_1up/spr_modifier_1up.yy",
   },
   "spriteMaskId":null,
   "visible":false,

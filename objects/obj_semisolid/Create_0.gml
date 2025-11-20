@@ -1,2 +1,2 @@
-pal = spr_pal_coin;
+pal = spr_pal_font;
 deletable = false;

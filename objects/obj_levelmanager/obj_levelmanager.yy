@@ -30,15 +30,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"theme","filters":[],"listItems":[],"multiselect":false,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"overworld","varType":2,},
-    {"$GMObjectProperty":"v1","%Name":"time","filters":[],"listItems":[],"multiselect":false,"name":"time","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"400","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"music","filters":[
+    {"$GMObjectProperty":"v2","%Name":"theme","filters":[],"listItems":[],"multiselect":false,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"overworld","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"time","filters":[],"listItems":[],"multiselect":false,"name":"time","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"400","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"music","filters":[
         "GMSound",
-      ],"listItems":[],"multiselect":false,"name":"music","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"mus_overworld","path":"sounds/mus_overworld/mus_overworld.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"mus_overworld","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"music_hurry","filters":[
+      ],"listItems":[],"multiselect":false,"name":"music","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"music_hurry","filters":[
         "GMSound",
-      ],"listItems":[],"multiselect":false,"name":"music_hurry","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"mus_overworld_hurry","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"move_camera","filters":[],"listItems":[],"multiselect":false,"name":"move_camera","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
+      ],"listItems":[],"multiselect":false,"name":"music_hurry","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"move_camera","filters":[],"listItems":[],"multiselect":false,"name":"move_camera","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

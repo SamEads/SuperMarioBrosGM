@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_liquid",
   "bboxMode":2,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c63e27d9-1fe6-4109-8cc0-d44ae4ccd44f","name":"c63e27d9-1fe6-4109-8cc0-d44ae4ccd44f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c63e27d9-1fe6-4109-8cc0-d44ae4ccd44f","name":"c63e27d9-1fe6-4109-8cc0-d44ae4ccd44f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Collisions",
-    "path":"folders/Sprites/Collisions.yy",
+    "name":"Liquid",
+    "path":"folders/Sprites/Liquid.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

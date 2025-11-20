@@ -6,7 +6,7 @@ if (!activated) {
 	
 		activated = true;
 		
-		with (obj_enemyparent)
+		with (obj_enemy_parent)
 		
 			instance_destroy();
 	

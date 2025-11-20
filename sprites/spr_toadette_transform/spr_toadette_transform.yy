@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_toadette_transform",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e8fbfa1d-84ff-4651-81b4-658fe0cf3a41","name":"e8fbfa1d-84ff-4651-81b4-658fe0cf3a41","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e8fbfa1d-84ff-4651-81b4-658fe0cf3a41","name":"e8fbfa1d-84ff-4651-81b4-658fe0cf3a41","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

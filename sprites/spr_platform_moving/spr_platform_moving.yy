@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_platform_moving",
   "bboxMode":2,
   "bbox_bottom":7,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6d121c16-347a-492a-806e-48a522893358","name":"6d121c16-347a-492a-806e-48a522893358","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b0da7e7d-22ef-48b1-a39e-96804abae080","name":"b0da7e7d-22ef-48b1-a39e-96804abae080","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b259b2d6-806b-41fa-9a01-950bb61cd1cb","name":"b259b2d6-806b-41fa-9a01-950bb61cd1cb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6d121c16-347a-492a-806e-48a522893358","name":"6d121c16-347a-492a-806e-48a522893358","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b0da7e7d-22ef-48b1-a39e-96804abae080","name":"b0da7e7d-22ef-48b1-a39e-96804abae080","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b259b2d6-806b-41fa-9a01-950bb61cd1cb","name":"b259b2d6-806b-41fa-9a01-950bb61cd1cb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Collisions",
-    "path":"folders/Sprites/Collisions.yy",
+    "name":"Solids",
+    "path":"folders/Sprites/Solids.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_growingvine_modifier",
-    "path":"sprites/spr_growingvine_modifier/spr_growingvine_modifier.yy",
+    "name":"spr_modifier_growing_vine",
+    "path":"sprites/spr_modifier_growing_vine/spr_modifier_growing_vine.yy",
   },
   "spriteMaskId":null,
   "visible":true,

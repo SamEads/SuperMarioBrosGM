@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_midway",
-    "path":"sprites/spr_midway/spr_midway.yy",
+    "name":"spr_arrow_red",
+    "path":"sprites/spr_arrow_red/spr_arrow_red.yy",
   },
   "spriteMaskId":null,
   "visible":false,

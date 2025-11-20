@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_qblock_invisible",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cfb2d3bc-d86d-4d3c-913d-eb6a173014a4","name":"cfb2d3bc-d86d-4d3c-913d-eb6a173014a4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cfb2d3bc-d86d-4d3c-913d-eb6a173014a4","name":"cfb2d3bc-d86d-4d3c-913d-eb6a173014a4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Solids",
-    "path":"folders/Sprites/Solids.yy",
+    "name":"Object Icons",
+    "path":"folders/Sprites/UI/Object Icons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

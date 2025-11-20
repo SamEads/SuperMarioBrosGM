@@ -14,8 +14,8 @@
     "path":"folders/Objects/Special/Do Not Use!.yy",
   },
   "parentObjectId":{
-    "name":"obj_physicsparent",
-    "path":"objects/obj_physicsparent/obj_physicsparent.yy",
+    "name":"obj_physics_parent",
+    "path":"objects/obj_physics_parent/obj_physics_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -69,7 +69,7 @@ if (!dead && !global.frozen && powerup == itemtype.id_subcon) {
 		
 	}
 
-	var enemy = collision_rectangle(bbox_left-1,bbox_bottom-4,bbox_right+1,bbox_bottom+4+abs(vspd),obj_enemyparent,0,0);
+	var enemy = collision_rectangle(bbox_left-1,bbox_bottom-4,bbox_right+1,bbox_bottom+4+abs(vspd),obj_enemy_parent,0,0);
 	var on_enemy = false;
 		
 	if (enemy) {
@@ -138,7 +138,7 @@ if (!dead && !global.frozen && powerup == itemtype.id_subcon) {
 			with (enemy) {
 				
 				var ret_obj = instance_create_depth(x,y,depth,obj_enemy_held_subcon);
-				with (ret_obj) event_perform_object(obj_enemyparent,ev_create,0);
+				with (ret_obj) event_perform_object(obj_enemy_parent,ev_create,0);
 				with (ret_obj) event_perform_object(other.object_index,ev_create,0);
 				ret_obj.return_object = object_index;
 				ret_obj.color = color;

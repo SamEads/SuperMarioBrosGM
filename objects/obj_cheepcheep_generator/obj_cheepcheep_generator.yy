@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cheepcheep_generator",
-    "path":"sprites/spr_cheepcheep_generator/spr_cheepcheep_generator.yy",
+    "name":"spr_generator_cheep_cheep",
+    "path":"sprites/spr_generator_cheep_cheep/spr_generator_cheep_cheep.yy",
   },
   "spriteMaskId":null,
   "visible":false,

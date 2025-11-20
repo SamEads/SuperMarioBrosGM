@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_hammerbro",
   "bboxMode":2,
   "bbox_bottom":31,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7cdef005-73c0-4bef-8752-625d2bf2306b","name":"7cdef005-73c0-4bef-8752-625d2bf2306b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0e3e9ecc-8a3a-463a-a9cb-179c57c3ce38","name":"0e3e9ecc-8a3a-463a-a9cb-179c57c3ce38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7cdef005-73c0-4bef-8752-625d2bf2306b","name":"7cdef005-73c0-4bef-8752-625d2bf2306b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0e3e9ecc-8a3a-463a-a9cb-179c57c3ce38","name":"0e3e9ecc-8a3a-463a-a9cb-179c57c3ce38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -14,8 +14,8 @@
     "path":"folders/Objects/Warping/Warps.yy",
   },
   "parentObjectId":{
-    "name":"obj_pipe_warp_down",
-    "path":"objects/obj_pipe_warp_down/obj_pipe_warp_down.yy",
+    "name":"obj_pipe_warp_parent",
+    "path":"objects/obj_pipe_warp_parent/obj_pipe_warp_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -39,5 +39,5 @@
     "path":"sprites/spr_pipe_entrance_right/spr_pipe_entrance_right.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

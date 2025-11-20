@@ -1,8 +1,8 @@
 image_index = global.tick;
 
-if (collision_rectangle(x,bbox_bottom+2,x,bbox_bottom+2,obj_blockparent,0,1)) {
+if (collision_rectangle(x,bbox_bottom+2,x,bbox_bottom+2,obj_block_parent,0,1)) {
 	
-	if (collision_rectangle(x,bbox_bottom+2,x,bbox_bottom+2,obj_blockparent,0,1).hitsequence != 0) {
+	if (collision_rectangle(x,bbox_bottom+2,x,bbox_bottom+2,obj_block_parent,0,1).hitsequence != 0) {
 		
 		instance_destroy();
 		instance_create_depth(x,y,-1,obj_coin_collected);
@@ -41,7 +41,7 @@ if (coin_start && global.pswitch > 0)
 	
 		perm_block = true;
 	
-	with instance_create_depth(x,y,depth,obj_blockparent) {
+	with instance_create_depth(x,y,depth,obj_block_parent) {
 		
 		sprite_index = spr_block_hit;
 		hitspr = spr_block_hit;
