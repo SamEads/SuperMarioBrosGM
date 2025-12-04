@@ -64,14 +64,14 @@ function level_list() {
 			global.smb2_mode = true;
 		
 			//World 1
-			global.worldlevel[1,1] = smb2_1_1_a;
-			global.worldlevel[1,2] = smb2_1_2_a;
-			global.worldlevel[1,3] = smb2_1_3;
-			global.worldlevel[1,4] = smb2_1_4;
+			global.worldlevel[1,1] = rm_smb2_1_1_a;
+			global.worldlevel[1,2] = rm_smb2_1_2_a;
+			global.worldlevel[1,3] = rm_smb2_1_3;
+			global.worldlevel[1,4] = rm_smb2_1_4;
 	
 			//World 2
-			global.worldlevel[2,1] = smb2_2_1_a;
-			global.worldlevel[2,2] = smb2_2_2_a;
+			global.worldlevel[2,1] = rm_smb2_2_1_a;
+			global.worldlevel[2,2] = rm_smb2_2_2_a;
 			global.worldlevel[2,3] = rm_2_3;
 			global.worldlevel[2,4] = rm_2_4;
 	

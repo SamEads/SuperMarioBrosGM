@@ -12,8 +12,8 @@
   "name":"obj_levelmanager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Main",
-    "path":"folders/Objects/Main.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

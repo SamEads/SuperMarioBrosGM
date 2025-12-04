@@ -1,1 +1,0 @@
-destination = smb2_1_1_b;
