@@ -129,6 +129,7 @@
     {"id":{"name":"obj_bulletbill_generator","path":"objects/obj_bulletbill_generator/obj_bulletbill_generator.yy",},},
     {"id":{"name":"obj_bulletbill","path":"objects/obj_bulletbill/obj_bulletbill.yy",},},
     {"id":{"name":"obj_buzzybeetle","path":"objects/obj_buzzybeetle/obj_buzzybeetle.yy",},},
+    {"id":{"name":"obj_camera_height","path":"objects/obj_camera_height/obj_camera_height.yy",},},
     {"id":{"name":"obj_cameralimiter","path":"objects/obj_cameralimiter/obj_cameralimiter.yy",},},
     {"id":{"name":"obj_castle_end","path":"objects/obj_castle_end/obj_castle_end.yy",},},
     {"id":{"name":"obj_cheepcheep_generator","path":"objects/obj_cheepcheep_generator/obj_cheepcheep_generator.yy",},},

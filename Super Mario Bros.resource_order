@@ -61,6 +61,7 @@
     {"name":"obj_bulletbill_generator","order":4,"path":"objects/obj_bulletbill_generator/obj_bulletbill_generator.yy",},
     {"name":"obj_bulletbill","order":1,"path":"objects/obj_bulletbill/obj_bulletbill.yy",},
     {"name":"obj_buzzybeetle","order":10,"path":"objects/obj_buzzybeetle/obj_buzzybeetle.yy",},
+    {"name":"obj_camera_height","order":23,"path":"objects/obj_camera_height/obj_camera_height.yy",},
     {"name":"obj_cameralimiter","order":1,"path":"objects/obj_cameralimiter/obj_cameralimiter.yy",},
     {"name":"obj_castle_end","order":4,"path":"objects/obj_castle_end/obj_castle_end.yy",},
     {"name":"obj_cheepcheep_jump","order":2,"path":"objects/obj_cheepcheep_jump/obj_cheepcheep_jump.yy",},
